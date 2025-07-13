@@ -1,35 +1,10 @@
-<img align="right" height="225" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-<h1 align="left">IRONINTER</h1>
-
-###
-
-<h3 align="left">A novice Full Stack Web Developer and Designer specializing in front-end technologies.</h3>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=plastic" height="40" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=plastic" height="40" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=plastic" height="40" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=plastic" height="40" alt="slack logo"  />
-  <img src="https://img.shields.io/static/v1?message=Signal&logo=signal&label=&color=039BE5&logoColor=white&labelColor=&style=plastic" height="40" alt="signal logo"  />
-</div>
-
-###
-
 <br clear="both">
 
-<p align="left">I am into Web Development and Design. But I have other interests too like AI, OSINT, etc. However, I'm not an expert in those fields. There are a lot of personal projects that I have developed over the past few years and I'll be making them open sourced. My repositories will (most likely) be a composition of web based simple portfolio projects like 'To-Do Lists' and some other more useful things like 'Image Convertor' and 'PDF Compressor'. You might find other projects too that related to web scraping and AI (most likely redundant). And there is also a small chance that some of the courses that I might or might not have taken are also here. <br>Oh and I am a Psychology Major with a minor in Language and Linguistics. So, my computer science related journey is mostly driven by interest and self learning. Believe it or not, that last line was also not AI generated. Thanks for reading.</p>
+<h1 align="center">IRONINTER</h1>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ironinter&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ironinter&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<h3 align="center">A novice Full Stack Web Developer and Designer specializing in front-end technologies.</h3>
 
 ###
 
@@ -61,8 +36,33 @@
 
 ###
 
+<img align="right" height="214" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ironinter&locale=en&mode=daily&theme=nightowl&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ironinter&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ironinter&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=nightowl&hide_border=false&order=2&custom_title=Languages" height="225" alt="languages graph"  />
+</div>
+
+###
+
+<h2 align="center">🌍Connect with me!🌍</h2>
+
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="52" height="40" alt="slack logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/signal/default.svg" width="52" height="40" alt="signal logo"  />
 </div>
 
 ###
@@ -76,7 +76,6 @@
 </div>
 
 ###
-
 <!--
 **ironinter/ironinter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
